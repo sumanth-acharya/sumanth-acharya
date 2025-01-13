@@ -59,3 +59,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanth-acharya&show_icons=true&locale=en" alt="sumanth-acharya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth-acharya&" alt="sumanth-acharya" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sumanth-acharya&theme=java-dark&card_width=400&card_height=150" alt="GitHub Streak" /></a>
