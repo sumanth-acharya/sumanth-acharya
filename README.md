@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Data Structures and Algorithms<br><br>🌱 I’m currently learning Advanced Java<br><br>👯 I’m looking to collaborate on open source projects<br><br>📫 Reach me on sumanthsacharya2005@gmail.com
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-acharya/) 
 
