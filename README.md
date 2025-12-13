@@ -66,11 +66,11 @@ Experienced in building RESTful APIs, responsive web interfaces, and working wit
 ---
 
 ## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumanth-acharya&show_icons=true&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-acharya&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanth-acharya)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanth-acharya&show_icons=true&hide_title=true" />
+  <imp src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-acharya&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth-acharya" />
+</p>
 
 ---
 
