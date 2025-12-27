@@ -72,5 +72,5 @@ Experienced in building RESTful APIs, responsive web interfaces, and working wit
 ---
 -->
 ## Connect
-- GitHub: https://github.com/sumanth-acharya
+- Mail: sumanthsacharya2005@gmail.com
 - LinkedIn: https://linkedin.com/in/sumanth-acharya
