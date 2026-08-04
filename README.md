@@ -1,3 +1,4 @@
+<!--
 # Sumanth Acharya
 
 Computer Science student focused on full-stack development, backend systems, and data-driven applications.  
@@ -32,11 +33,8 @@ Experienced in building RESTful APIs, responsive web interfaces, and working wit
 
 ### Data & NLP
 <p align="left">
-  <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-  <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-  <!-- SpaCy -->
   <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="68" height="68" alt="spaCy"/>
 </p>
 
@@ -64,7 +62,8 @@ Experienced in building RESTful APIs, responsive web interfaces, and working wit
 
 ---
 
-<!--## GitHub Activity
+
+## GitHub Activity
   ![Stats](https://github-readme-stats.vercel.app/api?username=sumanth-acharya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanth-acharya&theme=tokyonight&hide_border=false)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-acharya&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
